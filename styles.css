@@ -1,0 +1,17 @@
+body{
+    background-image:url(images/2nd.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    overflow:scroll;
+    background-color: #660323;
+    opacity:0.5;
+} 
+.container{
+    display:block;
+    background-color:#660323;
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:8px;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
