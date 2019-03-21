@@ -1,10 +1,10 @@
-body{
+.background-image{
     background-image:url(images/2nd.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     overflow:scroll;
     
-    
+      
 } 
 
 
@@ -17,4 +17,5 @@ body{
     margin-top: 20px;
     margin-bottom: 20px;
     font-style: normal;
+    text-decoration:none;
 }
