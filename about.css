@@ -1,0 +1,23 @@
+
+body{
+    background-color:rgb(102,3,35);
+    color:whitesmoke;
+    font-family: 'Poiret One', cursive;
+    display:block;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+}
+.content{
+    grid-column: span 2 / auto;
+    background-color: black;
+    width:100%;
+    padding:0px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height:80px;
+    bottom:0px;
+    align-items: center;
+}
